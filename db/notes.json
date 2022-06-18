@@ -1,7 +1,14 @@
-[
-        {
-            "id": "0",
-            "title":"Test Title",
-            "text":"Test text"
-        }
-]
+{
+  "notesArray": [
+    {
+      "id": "0",
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "Go to the Grocery Store",
+      "text": "I am out of ice cream and this is an emergency.",
+      "id": "1"
+    }
+  ]
+}

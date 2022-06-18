@@ -33,4 +33,4 @@ html
 
 # Deployed Link:
 
-https://bethanyjean.github.io/notes/
+https://bethanys-notes.herokuapp.com/

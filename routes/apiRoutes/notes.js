@@ -1,6 +1,6 @@
 const router = require('express').Router();
-const { filterByQuery, findById, createNewNote, validateNote } = require('../../lib/animals');
-const { notes } = require('../../data/animals');
+const { createNewNote, validateNote } = require('../../lib/notes');
+const { notes } = require('../../db/db.json');
 
 router.post('/notes', (req, res) => {
     // set id based on what the next index of the array will be
